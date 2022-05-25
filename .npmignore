@@ -3,6 +3,8 @@
 dist/*.map
 !/es
 !/lib
+!/tmp-es
+!/tmp-lib
 !/src
 !LICENSE.txt
 !CHANGELOG.md
